@@ -1,0 +1,6 @@
+projectKey=SonarCodeProjectCoverage
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=SonarCodeProjectCoverage
+ceTaskId=AX9Gj5NlafQ6eQQYZxHd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX9Gj5NlafQ6eQQYZxHd
